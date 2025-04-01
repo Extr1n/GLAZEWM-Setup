@@ -1,0 +1,17 @@
+[2m2025-01-15T20:33:59.941849Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[15]: missing field `bindings` at line 205 column 4
+[2m2025-01-15T20:34:45.372216Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[15]: missing field `bindings` at line 205 column 4
+[2m2025-01-15T21:08:26.853148Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-01-17T18:25:39.260383Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_effects.focused_window.border: Color must start with a `#`. at line 62 column 7
+[2m2025-01-17T18:25:51.977426Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_effects.focused_window.border: Color must start with a `#`. at line 62 column 7
+[2m2025-01-20T03:32:56.024169Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.config_reload_commands: unrecognized subcommand
+ at line 12 column 27
+[2m2025-01-20T03:33:18.543473Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'sleep 6'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2025-01-30T01:33:34.702791Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m gaps.outer_gap: invalid type: string "2px", expected struct RectDelta at line 50 column 14
+[2m2025-02-06T13:47:50.549220Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-02-06T13:48:09.483851Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-02-06T13:48:10.117865Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-02T03:52:31.432663Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-02T12:18:11.188549Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2025-03-14T20:18:56.476592Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 249 column 1, while parsing a block mapping
+[2m2025-03-14T20:19:37.834193Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 249 column 1, while parsing a block mapping
+[2m2025-03-14T20:22:57.865954Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 249 column 1, while parsing a block mapping
