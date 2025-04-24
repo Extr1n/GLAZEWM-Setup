@@ -138,11 +138,11 @@
 
         // Get icon to show for audio level.
         function getAudioIcon(audio) {
-          const volume = 0
-          try{
+          var volume = 0
+          try {
             volume = audio.defaultPlaybackDevice.volume;
           }
-          catch(err){
+          catch(err) {
             volume = 0
           }
           
